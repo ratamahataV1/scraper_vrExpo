@@ -24,6 +24,7 @@ playwright install
 pip install playwright-stealth
 ```
 - Create the scraper script
+- Add login credentials
 ```
 nano scrape.py
 ```
@@ -31,7 +32,6 @@ nano scrape.py
 ```
 python scrape.py
 ```
-- Add login credentials
 - When you're done
 ```
 deactivate
