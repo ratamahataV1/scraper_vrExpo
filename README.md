@@ -19,8 +19,14 @@ source venv/bin/activate
 - Install Dependencies inside the virtual environment
 ```
 pip install requests beautifulsoup4 pandas openpyxl setuptools py-distutils 
+```
+```
 pip install playwright
+```
+```
 playwright install
+```
+```
 pip install playwright-stealth
 ```
 - Create the scraper script
